@@ -1,4 +1,4 @@
-## The Delpi Project
+## The Delphi Project
 
 <p align="center">
     Decentralized oracle technology for humans, and Ergonauts.
